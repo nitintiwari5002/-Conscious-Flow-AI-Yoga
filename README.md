@@ -51,7 +51,7 @@
 
 ## **1️⃣ Clone the repo**
 ```bash
-git clone https://github.com/nitintiwari5002/Conscious-Flow-AI-Yoga.git
+git clone https://github.com/nitintiwari5002/-Conscious-Flow-AI-Yoga.git
 cd Conscious Flow
 ```
 

@@ -96,25 +96,20 @@ http://localhost:11434
 <img width="1883" height="971" alt="Image" src="https://github.com/user-attachments/assets/ad290748-3edb-443a-971c-3d2933265adc" />
 <br></br>
 <br></br>
-<br></br>
 
 ## 📊 AI Benefits and Steps
 
 <img width="1874" height="945" alt="Image" src="https://github.com/user-attachments/assets/fa1ca8d3-c034-4b89-818a-e7fbad676dd0" />
 <br></br>
 <br></br>
-<br></br>
 <img width="680" height="532" alt="Image" src="https://github.com/user-attachments/assets/213e3166-a462-4292-81dd-0a3dc55e1270" />
-<br></br>
 <br></br>
 <br></br>
 <img width="731" height="760" alt="Image" src="https://github.com/user-attachments/assets/a6d303e3-5be3-4aa7-b408-b98075fe155a" />
 <br></br>
 <br></br>
-<br></br>
 <img width="740" height="343" alt="Image" src="https://github.com/user-attachments/assets/0d77808b-02b4-4a6b-b68a-2dd1bf84bb3a" />
 
-<br></br>
 <br></br>
 <br></br>
 ## 🧭 Diet Plan maker
@@ -122,18 +117,13 @@ http://localhost:11434
 <img width="1878" height="960" alt="Image" src="https://github.com/user-attachments/assets/ede9c0e2-48a7-41d4-aa5c-0a871bb4d2d3" />
 <br></br>
 <br></br>
-<br></br>
 <img width="1761" height="632" alt="Image" src="https://github.com/user-attachments/assets/20e56256-e278-4ca8-aeef-c56cd81cd5bd" />
-<br></br>
 <br></br>
 <br></br>
 <img width="1807" height="684" alt="Image" src="https://github.com/user-attachments/assets/5dcad28c-33e0-4186-a2dd-7e422eaeb74a" />
 <br></br>
 <br></br>
-<br></br>
 <img width="1764" height="352" alt="Image" src="https://github.com/user-attachments/assets/42b058b6-4b75-4de7-9e9c-09e85bad8544" />
-<br></br>
-<br></br>
 <br></br>
 
 ## **🤝 Contributing**

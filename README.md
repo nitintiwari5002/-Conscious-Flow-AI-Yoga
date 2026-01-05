@@ -89,6 +89,14 @@ http://localhost:11434
 
 - Stable internet connection (optional for updates)
 
+
+## 🎥 Prototype Demo
+[![Download the demo](https://img.shields.io/badge/▶️-Download%20Video-blue)](https://github.com/nitintiwari5002/-Conscious-Flow-AI-Yoga/blob/main/Yoga.gif)
+
+---
+
+![Prototype demo](Yoga.gif)
+
 ## **📸 Screenshots**
 
 ## 🏠 Home Page

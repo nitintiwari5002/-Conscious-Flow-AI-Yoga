@@ -91,11 +91,11 @@ http://localhost:11434
 
 
 ## 🎥 Prototype Demo
-[![Download the demo](https://img.shields.io/badge/▶️-Download%20Video-blue)](https://github.com/nitintiwari5002/-Conscious-Flow-AI-Yoga/blob/main/Yoga.gif)
+[![Download the demo](https://img.shields.io/badge/▶️-Download%20Video-blue)](https://github.com/nitintiwari5002/-Conscious-Flow-AI-Yoga/blob/main/Myoga.gif)
 
 ---
 
-![Prototype demo](Yoga.gif)
+![Prototype demo](Myoga.gif)
 
 ## **📸 Screenshots**
 

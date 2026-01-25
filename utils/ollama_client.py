@@ -1,16 +1,16 @@
 import ollama
 
-def get_pose_info(pose_name: str) -> str:
+def get_pose_info(pose: str) -> str:
     prompt = f"""
-You are a yoga expert. For the asana '{pose_name}', provide:
+You are a yoga expert. For the asana '{pose}', provide faster results for the following:
 
-1. **Key Benefits** (3-5 bullet points, physical/mental)
+1. **Key Benefits** (3-4 bullet points, physical/mental)
 
-2. **Step-by-Step Instructions** (3-5 bullet points, beginner-friendly)
+2. **Step-by-Step Instructions** (3-4 bullet points, beginner-friendly)
 
-3. **Precautions** (1-2 warnings)
+3. **Related Asanas** (3-4 suggestions)
 
-Keep response concise, accurate, and safe. Use markdown.
+Keep response concise and accurate.
 """
     response = ollama.chat(
         model='phi3:mini',
@@ -54,7 +54,7 @@ Instructions:
    - Evening snack
    - Dinner
 
-2. Keep meals realistic for an Indian context when possible, using commonly available foods and are healthy and balanced and provide variety and list of different meals each day.
+2. Keep meals realistic for an Indian context when possible, using commonly available foods and are healthy and balanced and provide variety and list of different meals.
 
 3. For each meal, give:
    - Description of the dish

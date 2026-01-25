@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/67dc7d7b-7775-44ab-9391-688c5db90d8d" />
+  <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/67dc7d7b-7775-44ab-9391-688c5db90d8d" />
 </p>
 
 <h1 align="center">🧘 Conscious Flow: AI Yoga</h1>
@@ -24,13 +24,12 @@
 
 ## ⭐ Key Features
 
-## 🔹 For Students
-- 🎤 **AI-powered mock interviews**
-- ✍️ Supports text, audio, and video responses
-- 🤖 Real-time AI feedback with improvement suggestions
-- 📄 Download full interview + analysis + Resume as **PDF**
-- 🎓 Career & interview-type based question generation
-- 👤 User registration and login system
+## 🔹 For Enthusiasts
+- 🎤 **AI-powered asanas**
+- ✍️ Provides Asanas with their steps and benefits.
+- 🤖 Real-time AI feedback for diet plan for vegans, vegetarian and non-vegetarian
+- 📄 Also provides you the list of asanas to do to achieve the goal
+- 👤 No User registration and login system required
 
 ---
 

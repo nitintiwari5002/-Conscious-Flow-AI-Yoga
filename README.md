@@ -91,12 +91,16 @@ http://localhost:11434
 
 
 ## 🎥 Prototype Demo
-[![Download the demo](https://img.shields.io/badge/▶️-Download%20Video-blue)](https://github.com/nitintiwari5002/-Conscious-Flow-AI-Yoga/blob/main/Myoga.gif)
+[![Download the demo](https://img.shields.io/badge/▶️-Download%20Video-blue)](https://github.com/nitintiwari5002/-Conscious-Flow-AI-Yoga/blob/main/a1-ezgif.com-video-to-gif-converter.gif)
 
 ---
+[![Download the demo](https://img.shields.io/badge/▶️-Download%20Video-blue)](https://github.com/nitintiwari5002/-Conscious-Flow-AI-Yoga/blob/main/a2-ezgif.com-video-to-gif-converter.gif)
 
-![Prototype demo](Myoga.gif)
-
+---
+![Prototype demo](a1-ezgif.com-video-to-gif-converter.gif)
+<br></br>
+<br></br>
+![Prototype demo](a2-ezgif.com-video-to-gif-converter.gif)
 
 
 ## **🤝 Contributing**

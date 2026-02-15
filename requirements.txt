@@ -1,5 +1,4 @@
 python == 3.13.1
-ollama model == phi3:mini
 streamlit
 duckduckgo_search
 os

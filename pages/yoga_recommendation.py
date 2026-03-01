@@ -32,7 +32,9 @@ if problem:
         - Key benefits for these issues
         - Step-by-step instructions (3-5 steps)
         - Duration: 30-60 seconds
-        Format as bullet list: **Pose Name**: Benefits. Steps: 1....
+        Format as bullet list: **Pose Name**: 
+        Benefits. 
+        Steps: 1....
         """)
     
     st.markdown("### Recommended Poses")

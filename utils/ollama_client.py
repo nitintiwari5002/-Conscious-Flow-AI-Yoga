@@ -2,10 +2,10 @@ import requests
 import streamlit as st
 
 # Fixed secrets key for Streamlit Cloud
-api_key = st.secrets["groq_key"]  # Set in .streamlit/secrets.toml or Cloud settings
+api_key = st.secrets["key"]  
 
 GROQ_BASE_URL = "https://api.groq.com/openai/v1/chat/completions"
-GROQ_MODEL = "qwen/qwen3-32b"  # Your Qwen3 model
+GROQ_MODEL = "qwen/qwen3-32b"  
 
 def _groq_chat(prompt: str) -> str:
     """Core chat function - NO THINKING enabled."""

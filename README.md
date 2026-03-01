@@ -1,20 +1,28 @@
 <p align="center">
-  <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/67dc7d7b-7775-44ab-9391-688c5db90d8d" />
+  <a href="https://consciousflow.streamlit.app">
+    <img 
+      src="https://github.com/user-attachments/assets/67dc7d7b-7775-44ab-9391-688c5db90d8d"
+      alt="Conscious Flow Logo"
+      width="180"
+      height="180"
+    />
+  </a>
 </p>
 
 <h1 align="center">🧘 Conscious Flow: AI Yoga</h1>
 
 <p align="center">
-  <b>AI-powered yoga practice. AI delivers personalized insights, pose recommendations, and real-time feedback—making yoga accessible and effective diet plan maker for vegans, non-vegetarians and vegetarians.</b>
+  <b>
+    AI-powered yoga practice with personalized asanas, benefits, steps,
+    and diet plans for vegans, vegetarians, and non-vegetarians.
+  </b>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-groq-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Groq-8E44AD?style=for-the-badge" />
 </p>
-
----
 
 ## 🚀 About  Conscious Flow
 

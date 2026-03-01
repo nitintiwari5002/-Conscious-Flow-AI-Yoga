@@ -32,8 +32,8 @@ if problem:
         - Key benefits for these issues
         - Step-by-step instructions (3-5 steps)
         - Duration: 30-60 seconds
-        Format as bullet list: **Pose Name**: 
-        Benefits. 
+        Format as bullet list: **Pose Name**: \n
+        Benefits. \n
         Steps: 1....
         """)
     

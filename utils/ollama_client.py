@@ -46,6 +46,20 @@ Keep response concise and accurate.
     return _groq_chat(prompt)
 
 
+
+def pose_predictor(condition: str) -> str:
+    prompt = f"""
+You are a yoga expert. For the given '{condition}', provide faster results for the following:
+
+1. **Step-by-Step Instructions** (3-4 bullet points, beginner-friendly)
+
+2. **Related Asanas** (3-4 suggestions)
+
+Keep response concise and accurate.
+"""
+    return _groq_chat(prompt)
+
+
 def generate_diet_plan(
     age: int,
     gender: str,

@@ -82,7 +82,7 @@ streamlit run app.py
 - Stable internet connection (optional for updates)
 
 ## **👨🏻‍💻Deployed website link**
-- consciousflow.streamlit.app
+- https://consciousflow.streamlit.app
   
 ## 🎥 Prototype Demo
 [![Download the demo](https://img.shields.io/badge/▶️-Download%20Video-blue)](https://github.com/nitintiwari5002/-Conscious-Flow-AI-Yoga/blob/main/a1-ezgif.com-video-to-gif-converter.gif)

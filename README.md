@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Ollama-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-groq-8E44AD?style=for-the-badge" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 |----------|------------|
 | Frontend | Streamlit |
 | Backend | Python |
-| AI Model | Ollama |
+| AI Model | Groq |
 
 ---
 
@@ -63,13 +63,12 @@ Or manually:
 ```bash
 pip install streamlit
 ```
-## **3️⃣ Install and run Ollama**
+## **3️⃣ Steps for qwen3 API**
 
-Download from → https://ollama.com
-
-Pull a model (example):
-```bash
-ollama pull phi3:mini
+```
+1.Get the API via Groq
+2.Create a .toml file and store API for security purpose
+3.Import and use it
 ```
 ## **4️⃣ Run the application**
 ```bash
@@ -80,15 +79,11 @@ streamlit run app.py
 ## **🌐 Environment Requirements**
 
 - Python 3.9+
-
-- Ollama installed and running locally at:
-```bash
-http://localhost:11434
-```
-
 - Stable internet connection (optional for updates)
 
-
+## **👨🏻‍💻Deployed website link**
+- consciousflow.streamlit.app
+  
 ## 🎥 Prototype Demo
 [![Download the demo](https://img.shields.io/badge/▶️-Download%20Video-blue)](https://github.com/nitintiwari5002/-Conscious-Flow-AI-Yoga/blob/main/a1-ezgif.com-video-to-gif-converter.gif)
 

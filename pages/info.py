@@ -498,8 +498,9 @@ if selected_pose:
 st.markdown(
     """
     <div class="footer-bar">
-        Conscious Flow - Powered by Ollama phi3-mini & Streamlit
+        Conscious Flow - Powered by Groq - qwen3 & Streamlit
     </div>
     """,
     unsafe_allow_html=True,
 )
+

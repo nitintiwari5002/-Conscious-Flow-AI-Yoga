@@ -45,7 +45,7 @@ with col1:
         <h2 style="color: #4a5568; font-size: 2rem; font-weight: 700; margin-bottom: 1.5rem;">🌊 What is Conscious Flow?</h2>
         <p style="color: #666; font-size: 1.1rem; line-height: 1.8;">An innovative platform that enhances yoga practice through artificial intelligence. Advanced AI delivers personalized insights, pose recommendations, and real-time feedback—making yoga accessible and effective for all levels.</p>
         <div class="tech-stack">
-            <div class="tech-badge">Streamlit</div><div class="tech-badge">Ollama phi3:mini</div><div class="tech-badge">Python</div><div class="tech-badge">Computer Vision</div>
+            <div class="tech-badge">Streamlit</div><div class="tech-badge">Groq - qwen3</div><div class="tech-badge">Python</div><div class="tech-badge">Computer Vision</div>
         </div>
     </div>
     """, unsafe_allow_html=True)
@@ -65,3 +65,4 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 st.markdown('</div>', unsafe_allow_html=True)
+
